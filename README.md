@@ -6,35 +6,11 @@
   </br>
 </p>
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=9&i=javascript,,typescript,reactjs,expressjs,mongodb,html,css3,pug,less,php,python,django,visualstudiocode,discord,discordjs,vercel,figma">
+</p>
 
-  **What I know:**
-  
-  <img src="https://skillicons.dev/icons?i=js,jquery,html,css,less,typescript,react,py,svg,bootstrap,arduino,pnpm" alt="My languages">
-    </td>
-  </tr>
-</table>
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-  
-  **Software I use:**
-  
-  <img src="https://skillicons.dev/icons?i=godot,blender,vscode" alt="Software I use">
-    </td>
-    <td style="border: none;">
-  
-  **Services that I love:**
-  
-  <img src="https://skillicons.dev/icons?i=vercel,figma,discord,replit" alt="Software I use">
-    </td>
-  </tr>
-</table>
-
-<b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
+<b>Icons by <a href="https://github.com/syvixor/skills-icons">SkillIcons</a></b>
 
 <h2 align=center>Links</h2>
 
