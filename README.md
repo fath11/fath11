@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=9&i=javascript,,typescript,reactjs,expressjs,mongodb,html,css3,pug,less,php,python,django,visualstudiocode,discord,discordjs,vercel,figma">
+  me like code, me hate code, me code anyway
 </p>
-
-<b>Icons by <a href="https://github.com/syvixor/skills-icons">SkillIcons</a></b>
 
 <h2 align=center>Links</h2>
 
