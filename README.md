@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  I mainly do web development with JavaScript but I am working on learning C#. Other than that, I mostly do Scratch/TurboWarp related stuff.
+  I mainly do web development with JavaScript but I am working on learning C#. 
+  Other than that, I mostly do Scratch/TurboWarp related stuff.
 </p>
 
 <h2 align=center>Links</h2>
