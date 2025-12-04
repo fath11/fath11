@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I mainly do web development with JavaScript but I am working on learning C#. 
+  I mainly do web development with JavaScript but I am working on learning C#. <br>
   Other than that, I mostly do Scratch/TurboWarp related stuff.
 </p>
 
