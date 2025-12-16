@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="100" style="border-radius: 50%" src="https://github.com/fath11/fath11/assets/124476952/9c895690-676a-4d08-834c-6cc4356522bf">
   <br>
   <h2 align="center">Hello I am Fath11</h2>
   </br>
